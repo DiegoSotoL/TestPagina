@@ -1,0 +1,26 @@
+{
+  "name": "paginamamull",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000e\u0000s\u0000t\u0000P\u0000a\u0000g\u0000i\u0000n\u0000a\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoSotoL/TestPagina.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoSotoL/TestPagina/issues"
+  },
+  "homepage": "https://github.com/DiegoSotoL/TestPagina#readme",
+  "dependencies": {
+    "concurrently": "^7.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  }
+}
